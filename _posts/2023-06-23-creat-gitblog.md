@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Example Content
+title: "GitHub Blog 개설하기"
+categories: 
+  - Github
+tags:
+  - [Github, Gitblog, 깃허브]
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
