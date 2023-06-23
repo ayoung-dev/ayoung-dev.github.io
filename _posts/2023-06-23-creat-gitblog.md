@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "GitHub Blog 개설하기"
-categories: 
-  - Github
-tags:
-  - [Github, Gitblog, 깃허브]
+categories: Github
+#permalink: /about/
+#title: "About"
+#toc: true
+#toc_sticky: true
+#toc_label: "MYSELF"
+---
+
+![icon](/assets/logo.ico/apple-icon-120x120.png)
+
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
